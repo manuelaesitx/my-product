@@ -3,7 +3,7 @@ site:
   start_page: component-a::index.adoc
 content:
   sources:
-  - url: https://github.com/manuelaesitx/component-a.git
+  - url: https://github.com/manuelaesitx/my-product.git
     branches: main
     start_path: docs
 ui:
