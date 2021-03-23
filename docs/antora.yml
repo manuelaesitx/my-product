@@ -1,4 +1,4 @@
-name: component-a
+name: my-product
 version: dev
 nav:
 - modules/ROOT/nav.adoc
